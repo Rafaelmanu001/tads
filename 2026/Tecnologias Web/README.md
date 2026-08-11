@@ -1,6 +1,6 @@
 # Bem vindo ao meu repositorio do  IFPR
 
-Aulas ministradas pelo professor Paulinho
+Aulas ministradas pelo professor [Paulinho](https://github.com/pauloricardosouza)
 
 ### Aulas de Desenvolvimento Web.
 
